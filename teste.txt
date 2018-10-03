@@ -1,5 +1,6 @@
 è nois paizasa
 teste para GITHUB
+ADICIONADO NA VERsÃO 2
 cREdentials:
 	login:TecaJatu
 	senha:********
